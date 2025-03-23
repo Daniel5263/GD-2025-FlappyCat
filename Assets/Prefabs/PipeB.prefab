@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 1152259293938657244}
   - component: {fileID: 9055621165927007110}
   - component: {fileID: 6711535112204881951}
-  - component: {fileID: 2428720505656076916}
   m_Layer: 0
   m_Name: PipeB
   m_TagString: Untagged
@@ -135,16 +134,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &2428720505656076916
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1810025488146867112}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b26a850be2277d4c886f0fdf3cf96b9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 2
