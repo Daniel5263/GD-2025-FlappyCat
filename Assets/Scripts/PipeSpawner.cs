@@ -3,7 +3,7 @@ using UnityEngine;
 public class PipeSpawner : MonoBehaviour
 {
     [SerializeField] private float maxTime = 1.5f;
-    [SerializeField] private float heightRange = 0.5f;
+    [SerializeField] private float heightRange = 1f;
     [SerializeField] private GameObject pipes;
 
     private float timer;
